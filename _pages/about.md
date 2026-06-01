@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there, I’m Fazhong Liu 👋
 
-I am pursuing a Ph.D. degree at **Shanghai Jiao Tong University (SJTU)**, supervised by Prof. Haojin Zhu. I am a member of the ![NSEC (The Network Security and Privacy Protection) Lab](https://nsec.sjtu.edu.cn/).
+I am pursuing a Ph.D. degree at **Shanghai Jiao Tong University (SJTU)**, supervised by Prof. Haojin Zhu. I am a member of the [NSEC (The Network Security and Privacy Protection) Lab](https://nsec.sjtu.edu.cn/).
 
 ## 🔬Research Interests
 
