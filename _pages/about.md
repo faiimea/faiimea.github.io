@@ -7,23 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am **Fazhong Liu** at **Shanghai Jiao Tong University**. This website serves as a central place for my research, publications, portfolio, and academic updates.
+# About me
 
-I work in Shanghai, China. You can use this site to find my recent work, teaching materials, and professional information.
+Hi there, I’m Fazhong Liu 👋
 
-## Research Interests
+I am pursuing a Ph.D. degree at Shanghai Jiao Tong University (SJTU), supervised by Prof. Haojin Zhu. I am a member of the NSEC (The Network Security and Privacy Protection) Lab.
 
-- Add your main research direction here
-- Add your second research direction here
-- Add methods, applications, or interdisciplinary topics here
+## 🔬Research Interests
 
-## News
+I am actively exploring the frontiers of AI Security and IoT Security. My core interests include:
 
-- `2026-06` Website launched and homepage structure updated.
-- Add future news items here, for example: new papers, talks, awards, or project updates.
+- AIGC Security
+- Embodied AI Security
+- VR Security
 
-## Selected Links
+## 💡 News
 
-- [Publications](/publications/)
-- [Portfolio](/portfolio/)
-- [CV](/cv/)
+- [2026.5] Our paper "Stop My Dancing! Detection and Attribution of Motion-Aware Deepfake" has been accepted by **ACM Conference on Computer and Communications Security (CCF-A)**.
+
+- [2026.3] Our paper "Step-wise Adaptive Integration of Supervised Fine-tuning and Reinforcement Learning for Task-Specific LLMs" has been accepted byInternational Conference on Computer Supported Cooperative Work in Design (CCF-C).
+
+- [2025.2] Our paper "Synergistic Multi-Modal Keystroke Eavesdropping in Virtual Reality with Vision and Wi-Fi" has been accepted by **IEEE Transactions on Information Forensics and Security (CCF-A)**.
+
+
+ 
+
